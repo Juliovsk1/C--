@@ -1,0 +1,3 @@
+/home/juliosampaio/Projetos-Pessoais/C++/build/CMakeFiles/meu_programa.dir
+/home/juliosampaio/Projetos-Pessoais/C++/build/CMakeFiles/edit_cache.dir
+/home/juliosampaio/Projetos-Pessoais/C++/build/CMakeFiles/rebuild_cache.dir
